@@ -1,0 +1,24 @@
+{
+  "name": "employee_tracker_josh23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmckelvey786/Employee_Tracker_Josh23.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmckelvey786/Employee_Tracker_Josh23/issues"
+  },
+  "homepage": "https://github.com/jmckelvey786/Employee_Tracker_Josh23#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.2.0",
+    "mysql2": "^3.2.3"
+  }
+}
